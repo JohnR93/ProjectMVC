@@ -14397,6 +14397,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\pedidos\\Carrossel.cshtml",
+      "TargetPath": "Views\\pedidos\\Carrossel.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14407,6 +14412,31 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\_Recursos\\views-com-bootstrap\\Resumo.cshtml",
+      "TargetPath": "_Recursos\\views-com-bootstrap\\Resumo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\pedidos\\Resumo.cshtml",
+      "TargetPath": "Views\\pedidos\\Resumo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\pedidos\\Carrinho.cshtml",
+      "TargetPath": "Views\\pedidos\\Carrinho.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\_Recursos\\views-com-bootstrap\\Carrinho.cshtml",
+      "TargetPath": "_Recursos\\views-com-bootstrap\\Carrinho.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\pedidos\\Cadastro.cshtml",
+      "TargetPath": "Views\\pedidos\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14414,6 +14444,11 @@
     {
       "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\TORRE 01\\source\\repos\\ProjectMVC\\ProjectMVC\\_Recursos\\views-com-bootstrap\\Cadastro.cshtml",
+      "TargetPath": "_Recursos\\views-com-bootstrap\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {
