@@ -44,6 +44,14 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.Dotnet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
             }
           },
           "imports": [
